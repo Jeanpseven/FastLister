@@ -7,6 +7,10 @@ from copy import copy
 from itertools import permutations
 from sys import exit 
 
+with open('banner.txt', 'r') as arquivo:
+    conteudo = arquivo.read()
+    print(conteudo)
+
 class Wordlister:
     LEET_TRANSLATIONS = str.maketrans('oOaAeEiIsS', '0044331155')
 
