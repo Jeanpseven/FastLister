@@ -1,7 +1,7 @@
 # generate Non Distincts passwords combinations 
 #!/usr/bin/python3
-"""Wordlister, a simple wordlist generator and mangler written in python 3.10.1."""
-# Written By Ananke: https://github.com/4n4nk3
+"""Hell Yeah that's the code"""
+
 
 import argparse
 from copy import copy
