@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Wordlister, a simple wordlist generator and mangler written in python 3.10.1."""
-# Written By Ananke: https://github.com/4n4nk3
+"""Generate dintincts password list"""
+
 
 import argparse
 from copy import copy
